@@ -126,3 +126,7 @@ b {
     font-weight: 500;
     color: #444;
 }
+
+#toplevel h5.interests {
+    margin: 0 0 4px;
+}
