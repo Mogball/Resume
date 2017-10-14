@@ -113,7 +113,7 @@ div.hr {
 }
 
 #main ul {
-    margin-bottom: 10px;
+    margin-bottom: 7px;
 }
 
 #main li {
@@ -129,4 +129,8 @@ b {
 
 #toplevel h5.interests {
     margin: 0 0 4px;
+}
+
+#sidebar ul {
+    margin-bottom: 15px;
 }
