@@ -37,7 +37,7 @@ div.hr {
 }
 
 #sidebar {
-    flex: 1.15;
+    flex: 0.9;
 }
 
 #margin {
@@ -52,7 +52,7 @@ div.hr {
 }
 
 #toplevel h4 {
-    font-size: 21px;
+    font-size: 19px;
     font-weight: 500;
     color: #444;
     margin: 0 0 3px;
@@ -117,7 +117,7 @@ div.hr {
 }
 
 #main li {
-    margin-left: 37px;
+    margin-left: 25px;
     font-size: 16px;
     color: #666;
 }
